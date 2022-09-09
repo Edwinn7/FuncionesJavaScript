@@ -6,6 +6,7 @@ function filtrarPlanos(planos,arrancarNave){
 }
 
 let planos = [-1,100,200,300,400,500]
+    
 filtrarPlanos(function(filtro){
     let cuenta =0
     cuenta=filtro.length

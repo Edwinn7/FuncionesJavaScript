@@ -20,10 +20,10 @@ console.log(alimento)
     },5000)
 }
 
-function Sumatoria(aleatorio2,aleatorio3){
-    if(aleatorio2='Vegetal'){
-        let suma=0
-        suma=aleatorio3+aleatorio3
-        console.log(suma)
-    }
-}
+// function Sumatoria(aleatorio2,aleatorio3){
+//     if(aleatorio2='Vegetal'){
+//         let suma=0
+//         suma=aleatorio3+aleatorio3
+//         console.log(suma)
+//     }
+// }

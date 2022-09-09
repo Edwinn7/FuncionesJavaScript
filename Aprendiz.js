@@ -4,7 +4,7 @@ function CrearAprendiz(nombre,planeta,edad,estatura,Clasificar){
     Clasificar(DatosAprendiz)
 }
 
-CrearAprendiz('gg','tierra',14,1.70,function(aprendiz){
+CrearAprendiz('gg','tierra',15,1.70,function(aprendiz){
     if(aprendiz.edad>=15){
         console.log("Usted se va para la clase de sable de luz")
     }
